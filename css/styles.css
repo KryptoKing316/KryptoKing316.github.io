@@ -13,6 +13,7 @@ html {
 .Site-content {
 	flex: 1;
 }
+
 @media (min-width: 576px) {
 	html {
 		font-size: 14px;
@@ -40,18 +41,19 @@ html {
 .icons-social i {
 	font-size: 3em;
 }
-.icons-social  img {
+
+.icons-social i {
 	transition: transform 0.4s;
 	transform: scale(1);
 }
 
-.icons-social:hover img {
+.icons-social :hover i {
 	transform: scale(1.5);
 }
 
 /* Custom Styles */
 
-main {
+.main {
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
@@ -60,13 +62,13 @@ main {
 	text-align: center;
 }
 
-main > .intro {
+.main>.intro {
 	font-family: 'Reem Kufi', sans-serif;
 	font-size: 3.75em;
 	font-weight: 600;
 }
 
-main > .tagline {
+.main>.tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
@@ -82,7 +84,8 @@ main > .tagline {
 
 .devto svg {
 	margin-bottom: -0.20rem;
-	margin-left: 0.675rem;;
+	margin-left: 0.675rem;
+	;
 	width: 2.65rem;
 	height: 2.65rem;
 }
