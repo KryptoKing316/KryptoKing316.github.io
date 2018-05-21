@@ -6,4 +6,4 @@ $.ajax({
         $("#result").html(returndata[0]["object"]["sha"]);
         alert('Load was performed.');
     }
-});
+}); 
