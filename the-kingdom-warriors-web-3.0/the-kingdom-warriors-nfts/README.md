@@ -1,0 +1,14 @@
+---
+cover: ../../.gitbook/assets/kindombanner.jpeg
+coverY: 0
+---
+
+# ⚔ The Kingdom Warriors NFTs
+
+WE’RE DROPPING A GENESIS COLLECTION OF 8,888 UNIQUE, HAND-CRAFTED NFTS THAT TELL THE STORY OF THE GREAT WARRIOR WAITING TO BE UNLEASHED IN EACH ONE OF US.
+
+YOUR WARRIOR IS YOUR KEY INTO THE KINGDOM WARRIORS MEGAVERSE.
+
+![](<../../.gitbook/assets/Screen Shot 2022-07-06 at 10.06.11 PM.png>)
+
+****
